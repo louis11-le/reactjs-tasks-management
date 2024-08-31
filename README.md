@@ -7,13 +7,13 @@ This project is a full-stack task management application that I developed. The b
 
 ## Deployment
 
-### Back-end API
-The back-end API is deployed and available at:
-- [NestJS API](https://app-tasks-management-3644f0514b3a.herokuapp.com)
-
 ### Front-end Application
 The front-end application is deployed and accessible at:
 - [React.js Task Management](https://louis11-le.github.io/reactjs-tasks-management/#/)
+
+### Back-end API
+The back-end API is deployed and available at:
+- [NestJS API](https://app-tasks-management-3644f0514b3a.herokuapp.com)
 
 ## Getting Started
 To get started with the project locally, follow the instructions below.
